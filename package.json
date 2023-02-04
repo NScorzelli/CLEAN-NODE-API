@@ -6,7 +6,8 @@
   "scripts": {
     "prepare": "husky install",
     "lint-staged": "lint-staged",
-    "test": "jest"
+    "test": "jest",
+    "test-staged": "jest --passWithNoTests"
   },
   "keywords": [],
   "author": "",
