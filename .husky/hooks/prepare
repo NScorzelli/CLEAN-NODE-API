@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# run prepare script
+npm run fixLint
